@@ -29,4 +29,5 @@ If you have any suggestions, reports or, maybe, libraries you would like to cont
 
 I know that my libraries do not have or lack in tests. I will add tests gradually as most of the libraries currently do not have dedicated tests or are only tested together with projects where they are used in. If you want to contribute, tests are a great first thing to do, especially for different use cases.  
 
-I will not share any social media. If you want to contact me, make an issue at [spaghettisolutions/spaghettisolutions](https://github.com/spaghettisolutions/spaghettisolutions) repository and I will happily reply.
+I will not share any social media. If you want to contact me, make an issue at [spaghettisolutions/spaghettisolutions](https://github.com/spaghettisolutions/spaghettisolutions) repository and I will happily reply.  
+[![Join the chat at https://gitter.im/spaghettisolutions/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spaghettisolutions/community?utm_source=badge&utm_medium=badge&utm_content=badge)
