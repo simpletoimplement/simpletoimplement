@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm SimpleToImplement, but you can Simply call me if you want. This github account is new cause I want to be me and not associated with my past employer that is all over my history and other profile. I live in Baltics (Estonia, Lithuania, Latvia) but won't say which country.
 
-I am quickly moving my code out of my ex-employers repositories before I lose access to them. Only issue here is that they did not let me fork anything or move as is cause some of commit history code or messages may contain reference to them. To me this feels kinda stupid but, hey, at least I get to keep my code legally and not deal with some copyright or licensing stuff to get it or use it.  
+I am moving my code out of my ex-employers repositories before I lose access to them. Only issue here is that they did not let me fork anything or move as is cause some of commit history code or messages may contain reference to them. To me this feels kinda stupid but, hey, at least I get to keep my code legally and not deal with some copyright or licensing stuff to get it or use it.  
 
 I specialize in Symfony framework, so a lot of code I have and will upload focus on that. You can obviously use my code whereever you want but you won't find any libraries here that are made for other frameworks. And please, if you do use my code, use it at least as composer package to give me some credit.  
 
